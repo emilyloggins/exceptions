@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/bin/Debug/netcoreapp2.2/exceptions.deps.json
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.json
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/bin/Debug/netcoreapp2.2/exceptions.dll
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/bin/Debug/netcoreapp2.2/exceptions.pdb
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfo.cs
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.dll
+/Users/emilyloggins/workspace/backend-1/demos/exceptions/obj/Debug/netcoreapp2.2/exceptions.pdb
